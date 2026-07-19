@@ -28,13 +28,10 @@ I am a Computer Science student with an interest in **software development, arti
 
 | Project | Description | Technologies | Visibility |
 |---|---|---|---|
-| [Malaysian Sign Language Recognition](https://github.com/NabihahHasnan/malay-sign-language-recognition) | A real-time desktop application that recognises five Bahasa Isyarat Malaysia gestures using a webcam. It includes Teachable Machine classification, MediaPipe hand detection, confidence scores, audio feedback, and model evaluation. | Python, TensorFlow, Keras, OpenCV, MediaPipe, Tkinter, Scikit-learn | Private |
-| Excel Challenge | A collection of 65 practical Excel challenges covering formulas, Power Query, PivotTables, dynamic arrays, and macros. | Microsoft Excel, Power Query, PivotTables | Private |
 | [Hotel Booking System](https://github.com/NabihahHasnan/hotel-booking-system) | A Java-based hotel booking system developed to practise object-oriented programming concepts such as classes, objects, inheritance, and data management. | Java, OOP | Public |
 | [Robot Puzzle Challenge](https://github.com/NabihahHasnan/robot-puzzle-challenge) | A Java Swing logic puzzle application developed for a Discrete Structures project. | Java, Java Swing, Logic | Public |
 | [Java Exercises](https://github.com/NabihahHasnan/java-exercises) | A repository documenting my Java learning journey through core concepts, exercises, and small programming tasks. | Java | Public |
 | [PHP Exercises](https://github.com/NabihahHasnan/php-exercises) | A collection of PHP exercises created while learning server-side programming fundamentals. | PHP | Public |
-| Java Learning Journey | A private repository containing structured Java notes, practice exercises, and learning progress. | Java | Private |
 
 ## Other Academic Projects
 
@@ -42,7 +39,6 @@ I am a Computer Science student with an interest in **software development, arti
 |---|---|---|
 | Smart Traffic Advisory System | A traffic monitoring application that combines live traffic and weather data to generate congestion advice for selected Klang Valley routes. | Python, Streamlit, TomTom API, OpenWeather API, Hugging Face |
 | KopiLang Compiler | A small multilingual compiler and interpreter project developed using grammar rules, parsing, and SableCC. | Java, SableCC, Compiler Design |
-| Receipt OCR Concept | An application concept for scanning grocery receipts and extracting text for expense tracking. | OCR, Python, Web Development |
 | Sign Language Model Evaluation | An independent evaluation pipeline that generates accuracy, precision, recall, F1-score, classification reports, and confusion matrices. | Python, Scikit-learn, Matplotlib |
 
 ## Currently Learning
